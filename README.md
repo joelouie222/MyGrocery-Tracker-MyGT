@@ -10,7 +10,7 @@ Project Selection
 
 ### MyGrocery Tracker (MyGT) 
 
-Have you ever thought of keeping track of your grocery purchases? Have you ever wondered if an item you bought increased in price or another store is selling the same item in a cheaper price? Then, MyGrocery Tracker is the website for you! 
+_Have you ever thought of keeping track of your grocery purchases? Have you ever wondered if an item you bought increased in price or another store is selling the same item in a cheaper price? Then, MyGrocery Tracker is the website for you!_
 
 
 ### What is MyGrocery Tracker? 
