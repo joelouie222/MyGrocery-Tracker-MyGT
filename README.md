@@ -20,7 +20,7 @@ Have you ever thought of keeping track of your grocery purchases? Have you ever 
  
 ### Analytic Reports 
 
-Using the information in the database provided by the user, MyGT will be able to _display a report_ the user on items that the user has bought multiple times, an increase/decrease of price on a specific grocery product in a set date (monthly, quarterly, etc.), an indicator when an item is priced lower on a specific grocery store. 
+Using the information in the database provided by the user, MyGT will be able to **display a report** the user on items that the user has bought multiple times, an increase/decrease of price on a specific grocery product in a set date (monthly, quarterly, etc.), an indicator when an item is priced lower on a specific grocery store. 
 
 
 ### Making a shopping list 
