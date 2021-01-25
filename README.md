@@ -1,8 +1,8 @@
 # MyGrocery Tracker (MyGT)
 ## My 18-Week Project (MSSA Cloud Application Development/Embry-Riddle) - An ASP.NET MVC Core Web Application
 
-Joe Louie Corporal | 
-MSSA CAD | 
+Joe Louie Corporal <br /> 
+MSSA CAD <br /> 
 23 Jan 2021 
 
 ISTA 220 PROJECT PART 2 
