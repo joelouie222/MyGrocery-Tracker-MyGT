@@ -15,7 +15,7 @@ Have you ever thought of keeping track of your grocery purchases? Have you ever 
 
 ### What is MyGrocery Tracker? 
 
-MyGrocery Tracker (MyGT) is a web application that will help the user track their grocery purchases.  The user can enter information about the purchases they have made on a specific date on the website and MyGT will keep track of those purchases for the user by saving the data in a database. (If at all possible, MyGT may also allow so the user to upload an image of the user’s receipt to eliminate the need to save the physical receipt.) MyGT can serve the user as a sorce to look back on their past purchases (or if they needed a copy of a receipt on a specific date.) 
+**MyGrocery Tracker (MyGT)** is a web application that will help the user track their grocery purchases.  The user can enter information about the purchases they have made on a specific date on the website and MyGT will keep track of those purchases for the user by saving the data in a database. (If at all possible, MyGT may also allow so the user to upload an image of the user’s receipt to eliminate the need to save the physical receipt.) MyGT can serve the user as a sorce to look back on their past purchases (or if they needed a copy of a receipt on a specific date.) 
 
  
 ### Analytic Reports 
