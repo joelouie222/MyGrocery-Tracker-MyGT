@@ -37,7 +37,7 @@ With substantial data provided by the user, the **user can make a shopping** lis
 
 ##### Shopping List
 :black_square_button: | QTY | Product Name | Expected price each
---- | ------------- | -------------------
+--- | --- | ------------- | -------------------
 :black_square_button: | # | Product 1 | $ ##.##
 :black_square_button: | # | Product 2 | $ ##.##
 ... | ...... | ....
