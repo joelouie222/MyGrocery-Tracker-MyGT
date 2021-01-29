@@ -32,8 +32,8 @@ Product 2 | ## | ### | ###
 
 With substantial data provided by the user, the **user can make a shopping** list for an upcoming trip to the grocery store. The user can select from a list of items they have bought in the past, and add them on the shopping list. The user then have the ability to print this shopping list to help them remember what to buy during their trip to the grocery store. 
 
-#####Shopping List
-QTY | Shopping List | Expected price each
+##### Shopping List
+QTY | Product Name | Expected price each
 --- | ------------- | -------------------
 :black_square_button: | Product 1 | $ ##.##
 :black_square_button: | Product 2 | $ ##.##
