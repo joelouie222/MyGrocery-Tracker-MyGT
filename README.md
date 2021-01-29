@@ -15,13 +15,18 @@ _Have you ever thought of keeping track of your grocery purchases? Have you ever
 
 ### What is MyGrocery Tracker? 
 
-**MyGrocery Tracker (MyGT)** is a _web application_ that will help the user track their grocery purchases.  The user can enter information about the purchases they have made on a specific date on the website and MyGT will keep track of those purchases for the user by saving the data in a database. (If at all possible, MyGT may also allow so the user to upload an image of the user’s receipt to eliminate the need to save the physical receipt.) MyGT can serve the user as a sorce to look back on their past purchases (or if they needed a copy of a receipt on a specific date.) 
+**MyGrocery Tracker (MyGT)** is a _web application_ that will help the user track their grocery purchases.  The user can enter information about the purchases they have made on a specific date on the website and MyGT will keep track of those purchases for the user by saving the data in a database. If at all possible, MyGT may also allow so the user to upload an image of the user’s receipt to eliminate the need to save the physical receipt.) MyGT can serve the user as a sorce to look back on their past purchases _(or if they needed a copy of a receipt on a specific date.)
 
  
 ### Analytic Reports 
 
 Using the information in the database provided by the user, MyGT will be able to **display a report** the user on items that the user has bought multiple times, an increase/decrease of price on a specific grocery product in a set date (monthly, quarterly, etc.), an indicator when an item is priced lower on a specific grocery store. 
 
+productName | Total qty bought last month | Total qty bought last quarter | Total qty bought last year
+------------|-----------------------------|-------------------------------|---------------------------
+Product 1 | ## | ### | ###
+Product 2 | ## | ### | ###
+....... | .. | ... | ...
 
 ### Making a shopping list 
 
