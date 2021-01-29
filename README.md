@@ -15,7 +15,7 @@ _Have you ever thought of keeping track of your grocery purchases? Have you ever
 
 ### What is MyGrocery Tracker? 
 
-**MyGrocery Tracker (MyGT)** is a _web application_ that will help the user track their grocery purchases.  The user can enter information about the purchases they have made on a specific date on the website and MyGT will keep track of those purchases for the user by saving the data in a database. If at all possible, MyGT may also allow so the user to upload an image of the user’s receipt to eliminate the need to save the physical receipt.) MyGT can serve the user as a sorce to look back on their past purchases _(or if they needed a copy of a receipt on a specific date.)
+**MyGrocery Tracker (MyGT)** is a _web application_ that will help the user track their grocery purchases.  The user can enter information about the purchases they have made on a specific date on the website and MyGT will keep track of those purchases for the user by saving the data in a database. \*If at all possible, MyGT may also allow so the user to upload an image of the user’s receipt to eliminate the need to save the physical receipt.\* MyGT can serve the user as a sorce to look back on their past purchases \*or if they needed a copy of a receipt on a specific date.\*
 
  
 ### Analytic Reports 
@@ -36,3 +36,6 @@ With substantial data provided by the user, the **user can make a shopping** lis
 ### Rating system/leaving notes 
 
 Another functionality of MyGT will be a rating system or a comment/note about a specific product they have purchased. This could be a positive or negative note about the product. Perhaps they’ve liked the product and they want to leave a note on how the product taste or the quality. So, on the future, when they are **making a shopping list**, they would have the ability to make better decision or avoid making a mistake of repurchasing a product they did not like in the past. 
+
+> Product 1 - Brand - Product Name - UPC -- Unit Price - :star::star::star::star: - user comments
+> Product 2 - Brand - Product Name - UPC -- Unit Price - :star::star::star: - user comments
