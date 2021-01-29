@@ -30,7 +30,6 @@ Product 1 | ## | ### | ###
 Product 2 | ## | ### | ###
 ....... | .. | ... | ...
 <br /> 
-<br /> 
 
 ### Making a shopping list 
 
@@ -42,8 +41,7 @@ QTY | Product Name | Expected price each
 :black_square_button: | Product 1 | $ ##.##
 :black_square_button: | Product 2 | $ ##.##
 ... | ...... | ....
-<br /> 
-<br /> 
+<br />
 
 ### Rating system/leaving notes 
 
