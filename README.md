@@ -37,5 +37,5 @@ With substantial data provided by the user, the **user can make a shopping** lis
 
 Another functionality of MyGT will be a rating system or a comment/note about a specific product they have purchased. This could be a positive or negative note about the product. Perhaps they’ve liked the product and they want to leave a note on how the product taste or the quality. So, on the future, when they are **making a shopping list**, they would have the ability to make better decision or avoid making a mistake of repurchasing a product they did not like in the past. 
 
-> Product 1 - Brand - Product Name - UPC -- Unit Price - :star::star::star::star: - user comments
+> Product 1 - Brand - Product Name - UPC -- Unit Price - :star::star::star::star: - user comments\n
 > Product 2 - Brand - Product Name - UPC -- Unit Price - :star::star::star: - user comments
