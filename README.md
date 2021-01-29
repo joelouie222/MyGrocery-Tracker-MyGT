@@ -13,9 +13,11 @@ Project Selection
 _Have you ever thought of keeping track of your grocery purchases? Have you ever wondered if an item you bought increased in price or another store is selling the same item in a cheaper price? Then, MyGrocery Tracker is the website for you!_
 
 
+
 ### What is MyGrocery Tracker? 
 
 **MyGrocery Tracker (MyGT)** is a _web application_ that will help the user track their grocery purchases.  The user can enter information about the purchases they have made on a specific date on the website and MyGT will keep track of those purchases for the user by saving the data in a database. \*If at all possible, MyGT may also allow so the user to upload an image of the user’s receipt to eliminate the need to save the physical receipt.\* MyGT can serve the user as a sorce to look back on their past purchases \*or if they needed a copy of a receipt on a specific date.\*
+
 
  
 ### Analytic Reports 
@@ -27,6 +29,8 @@ productName | Total qty bought last month | Total qty bought last quarter | Tota
 Product 1 | ## | ### | ###
 Product 2 | ## | ### | ###
 ....... | .. | ... | ...
+
+
 
 ### Making a shopping list 
 
