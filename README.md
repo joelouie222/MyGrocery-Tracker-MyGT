@@ -49,3 +49,5 @@ Another functionality of MyGT will be a **rating system or a comment/note system
 > Product 1 - Brand - Product Name - UPC -- Unit Price - :star::star::star::star: - user comments<br />
 > Product 2 - Brand - Product Name - UPC -- Unit Price - :star::star::star: - user comments<br />
 > ........
+
+### [My_GT Database Diagram (Crow's Foot)](My_GT-DB-diagram.pdf)
