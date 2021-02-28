@@ -51,3 +51,5 @@ Another functionality of MyGT will be a **rating system or a comment/note system
 > ........
 
 ### [My_GT Database Diagram (Crow's Foot)](My_GT-DB-diagram.pdf)
+
+### [My GT Wireframe](MyGT-Wireframe.pdf)
